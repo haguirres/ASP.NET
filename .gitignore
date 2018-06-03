@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.map
+*.spec.js
+/TestAngularMVC/TestAngularMVC/ClientApp/*.js
+/TestAngularMVC/TestAngularMVC/ClientApp/app/*.js
+/TestAngularMVC/TestAngularMVC/node_modules
+/TestAngularMVC/TestAngularMVC/obj/Debug
+/TestAngularMVC/packages
+/TestAngularMVC/.vs
